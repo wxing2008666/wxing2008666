@@ -1,3 +1,5 @@
+![image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 ### Hi there 👋
 - 🔭 I’m currently working on Modern C++ and Golang, learning Rust and Python in my spare time
 - 🌱 I’m currently learning network, distributed systems etc...
